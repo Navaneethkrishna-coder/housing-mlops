@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas<3.0
+numpy
+xgboost
+joblib
+prometheus-client
+pydantic

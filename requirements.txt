@@ -1,0 +1,55 @@
+
+# Machine Learning
+numpy
+pandas<3.0
+scikit-learn
+xgboost
+joblib
+
+# MLOps
+mlflow
+evidently
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Monitoring
+prometheus-client
+
+# Testing
+pytest
+httpx
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+numpy
+pandas
+scikit-learn
+xgboost
+joblib
+
+# MLOps
+mlflow
+evidently
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Monitoring
+prometheus-client
+
+# Testing
+pytest
+httpx
+
+# Visualization and reporting
+matplotlib
+seaborn
+
